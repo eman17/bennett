@@ -17,6 +17,131 @@ what humans think is impossible.
   
 Yellow, black. Yellow, black.
 Yellow, black. Yellow, black.
+
+NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+Why, Cory?
+
   
 Ooh, black and yellow!
 Let's shake it up a little.
@@ -3269,4 +3394,4 @@ All right. Take ten, everybody.
 Wrap it up, guys.'''
 for line in important.split('\n')	:
 	print(line)
-	sleep(randint(0,200)/1000)
+	sleep(randint(0,500)/1000)
